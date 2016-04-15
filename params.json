@@ -1,0 +1,6 @@
+{
+  "name": "Br3ph.GitHub.io",
+  "tagline": "",
+  "body": "#What's this?\r\nHere i will create an chatting Bot. \r\n\r\n## Where to use?\r\nIt is developed as a plug-in to @vysheng's telegram-cli. Since my machine is in a telegram group, i want it to join the conversation. \r\nSo i decided to create a read-and-learn script. The script looks which questions we ask and which answers may fit and stores them. \r\n\r\n## How does it learn?\r\nThe users have to decide wheter an answer was good or not. With simple commands this is possible.\r\nanswer-correct and answer-false will increase/decrease a fitting number in the database. If an answer reaches the fitting number zero, it will forget it.\r\nSome question might depends on the time of day, so it will store the time of the questions too. With this information the script is even able to ask if you slept well :)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
